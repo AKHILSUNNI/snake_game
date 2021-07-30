@@ -618,7 +618,7 @@ function draw(){
 
     }
 
-    // creating replay button
+    // creating replay button 
 
     if(gameWin){
         winner.play();
